@@ -10,7 +10,7 @@ All my academical carrer is sumed by coding on web projects mixing front-end and
 
 I enjoy to figure out things I got questions mainly when these affairs have related to coding, economy and estatistics. Hence, I have a good time with PDFs and articles over the World Economic Forum (I literally recommend this one) and watch some videos on youtube that can distract me haha. 
 
-### 3. A little but strong sentece :heart:
+### 3. A little but strong sentence :heart:
 
 Both sentences below are into Little prince's (Saint Exupèry) book.
 
