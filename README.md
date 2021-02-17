@@ -4,7 +4,7 @@ I'm Raphael and I'd like to tell you guys a little about my academical and socia
 
 ### 1. Skills :books:
 
-All my academical carrer is sumed by coding on web projects mixing front-end and back-end side. However, I intend to follow Data Analysis' branch because how you'll remark above, I love data and how impressive is to extract information from that. 
+All my academical carrer is sumed by coding on web projects mixing front-end and back-end side with tecnologies like JS and PHP. However, I intend to follow Data Analysis' branch because how you'll remark above, I love data and how impressive is to extract information from that. 
 
 ### 2. Hobbies :brain:
 
