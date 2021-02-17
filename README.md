@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey fellows 👋
 
-<!--
-**raphaelramosds/raphaelramosds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Raphael and I'd like to tell you guys a little about academical and social features. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Skills
+
+
+#### Hobbies
+
+
+#### An little but strong sentece
+
+"It's only with the heart that one can see rightly; what is essential is invisible to the eyes"
+
+"On n'y voir bien qu'avec le coir, l'essential est invisible pour les yeux".
