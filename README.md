@@ -14,6 +14,7 @@ I enjoy to figure out things I got questions mainly when these affairs have rela
 
 Both sentences below are into Little prince's (Saint Exupèry) book.
 
-"It's only with the heart that one can see rightly; what is essential is invisible to the eyes"
-"On n'y voir bien qu'avec le coir, l'essential est invisible pour les yeux".
+> It's only with the heart that one can see rightly; what is essential is invisible to the eyes
+
+> On n'y voir bien qu'avec le coeur, l'essential est invisible pour les yeux
 
