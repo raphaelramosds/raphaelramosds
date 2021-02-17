@@ -12,7 +12,7 @@ I enjoy to figure out things I got questions mainly when these affairs have rela
 
 ### 3. A little but strong sentence :heart:
 
-Both sentences below are into Little prince's (Saint Exupèry) book.
+Both sentences below are into Little Prince's book (Saint Exupèry).
 
 > It's only with the heart that one can see rightly; what is essential is invisible to the eyes
 
