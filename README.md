@@ -2,7 +2,7 @@
 
 I'm Raphael and I'd like to tell you guys a little about academical and social features :grin:.
 
-### 1. Skills :books 
+### 1. Skills :books:
 
 All my academical carrer is sumed by coding on web projects mixing front-end and back-end side. However, I intend to follow Data Analysis' branch because how you'll remark above, I love data and how impressive is to extract information from that. 
 
