@@ -10,6 +10,7 @@ My main work tools are
 
 - Codeigniter PHP framework
 - P5.js library 
+- Framework 7
 
 ### A little but strong sentence :heart:
 
