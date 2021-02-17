@@ -1,6 +1,6 @@
 ## Hey fellows 👋
 
-I'm Raphael and I'd like to tell you guys a little about academical and social features :grin:.
+I'm Raphael and I'd like to tell you guys a little about my academical and social features :grin:.
 
 ### 1. Skills :books:
 
