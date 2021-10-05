@@ -9,7 +9,7 @@ All my academical carrer is sumed by coding on web projects mixing front-end and
 My main work tools are
 
 - Codeigniter PHP framework
-- P5.js library 
+- Webscraping (Python)
 - Framework 7
 
 ### A little but strong sentence :heart:
