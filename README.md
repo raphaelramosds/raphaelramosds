@@ -1,6 +1,9 @@
-{
-  "description": "Thinking on something cool to write down",
-  "Languages": ["JS","Python","PHP"]
+```javascript
+var description = {
+  "note": "Thinking on something cool to write down",
+  "languages": ["JS","Python","PHP"]
 }
+
+```
 
 
