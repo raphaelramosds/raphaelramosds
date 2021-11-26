@@ -1,10 +1,10 @@
 ```javascript
 var me = {
   "Description": "Thinking on something cool to write down",
-  "languages": ["JS","Python"],
+  "languages": ["JS","Python", "PHP"],
   "Tools": {
-    "Back-end" : ["NodeJS"],
-    "Front-end" : ["ReactJS"],
+    "Back-end" : ["NodeJS", "Code Igniter"],
+    "Front-end" : ["React"],
     "For fun" : ["Webscraping on Python"]
   }
 }
