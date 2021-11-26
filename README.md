@@ -1,10 +1,11 @@
 ```javascript
-var description = {
-  "note": "Thinking on something cool to write down",
-  "languages": ["JS","Python", "PHP"],
+var me = {
+  "Description": "Thinking on something cool to write down",
+  "languages": ["JS","Python"],
   "Tools": {
     "Back-end" : ["NodeJS"],
-    "Front-end" : ["ReactJS"]
+    "Front-end" : ["ReactJS"],
+    "For fun" : ["Webscraping on Python"]
   }
 }
 
