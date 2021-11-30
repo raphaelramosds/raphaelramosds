@@ -4,7 +4,6 @@ var me = {
   "languages": ["JS","Python", "PHP"],
   "Tools": {
     "Back-end" : ["NodeJS", "Code Igniter"],
-    "Front-end" : ["React"],
     "For fun" : ["Webscraping on Python"]
   }
 }
