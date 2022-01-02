@@ -9,7 +9,7 @@ var me = {
   "tools": {
     "front-end" : ["NextJS", "ReactJS"],
     "back-end" : ["ExpressJS"],
-    "webscraping : ["Selenium"]
+    "webscraping" : ["Selenium"]
   }
 }
 
