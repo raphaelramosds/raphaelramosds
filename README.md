@@ -1,11 +1,15 @@
 ```javascript
 var me = {
-  "Description": "Thinking on something cool to write down",
-  "languages": ["JS","Python"],
-  "Tools": {
-    "Front-end" : ["NextJS", "ReactJS"],
-    "Back-end" : ["ExpressJS"],
-    "For fun" : ["Webscraping on Python"]
+  "academical_career" : {
+    "IFRN" : "Web Development Techinician (2019)",
+    "UFRN" : "Computation Engineering Bachelor (2020 - current)"
+  },
+  "description" : "Thinking on something cool to write down",
+  "languages" : ["JS","Python"],
+  "tools": {
+    "front-end" : ["NextJS", "ReactJS"],
+    "back-end" : ["ExpressJS"],
+    "webscraping : ["Selenium"]
   }
 }
 
