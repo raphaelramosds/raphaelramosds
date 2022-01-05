@@ -5,7 +5,7 @@ var me = {
     "UFRN" : "Computation Engineering Bachelor (2020 - current)"
   },
   "description" : "Thinking on something cool to write down",
-  "languages" : ["JS","Python"],
+  "languages" : ["Typescript","Python"],
   "tools": {
     "front-end" : ["NextJS", "ReactJS"],
     "back-end" : ["ExpressJS"],
