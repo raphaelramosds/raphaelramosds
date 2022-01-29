@@ -2,7 +2,7 @@
 var me = {
   "academical_career" : {
     "IFRN" : "Web Development Technician (2019)",
-    "UFRN" : "Computation Engineering Bachelor (2020 - current)"
+    "UFRN" : "Computer Engineering Bachelor (2020 - current)"
   },
   "description" : "Thinking on something cool to write down",
   "languages" : ["Typescript","Python"],
