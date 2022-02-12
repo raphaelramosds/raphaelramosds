@@ -9,6 +9,10 @@
 
 :game_die: Passionate by medieval games, History and Science.
 
+**Technologies**
+
+My favorite ones are ReactJS and NextJS upon fronted and ExpressJS for backend services. Moreover, I am used to work on softwares containerized with Docker.
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelramosds&layout=compact" height="200px" width="49%"/>
 </a>
