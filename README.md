@@ -5,7 +5,7 @@
 
 :wave: I am a Web Development Technician (2019) at IFRN and a Computer Engineering Bachelor (2020 - current) at UFRN.
 
-:pushpin: Currently engaging as a volunteer on a Natalnet's web system 
+:pushpin: Currently engaging as a web developer volunteer on Dataviewer, a Natalnet's web system related with data analysis and machine learning
 
 :game_die: Passionate by medieval games, History and Science.
 
