@@ -3,7 +3,7 @@
 
 *Thou art welcome to read my profile*
 
-:wave: I am a Web Development Technician (2019) at IFRN and a Computer Engineering Bachelor (2020 - current) at UFRN.
+:wave: Web Development Technician (2019) at IFRN and a Computer Engineering Bachelor (2020 - current) at UFRN.
 
 :pushpin: Currently engaging as a web developer volunteer on Dataviewer, a Natalnet's web system related with data analysis and machine learning
 
