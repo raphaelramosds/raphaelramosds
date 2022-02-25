@@ -15,10 +15,10 @@ My favorite ones are ReactJS and NextJS upon fronted and ExpressJS for backend s
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelramosds&layout=compact" height="200px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelramosds&layout=compact" width="48%"/>
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img src="https://github-readme-stats.vercel.app/api?username=raphaelramosds&show_icons=true" height="200px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=raphaelramosds&show_icons=true" width="48%"/>
   </a>
 </div>
 
