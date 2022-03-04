@@ -1,13 +1,7 @@
 
-**The simplest README possible**
+**<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Raphael**
 
-*Thou art welcome to read my profile*
-
-:wave: Web Development Technician (2019) at IFRN and a Computer Engineering Bachelor (2020 - current) at UFRN.
-
-:pushpin: Currently engaging as a web developer volunteer on Dataviewer, a Natalnet's web system related with data analysis and machine learning
-
-:game_die: Passionate by medieval games, History and Science.
+I am a Web Development Technician (2019) at IFRN and a Computer Engineering Bachelor (2020 - current) at UFRN.
 
 **Technologies**
 
