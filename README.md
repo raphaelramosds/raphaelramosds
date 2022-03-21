@@ -5,7 +5,7 @@ I am a Web Development Technician (2019) at IFRN and a Computer Engineering Bach
 
 **Technologies**
 
-Currently, I'm most engaging with backend ones, such as ExpressJS, however I've got some projects coded in ReactJS and NextJS upon fronted. Moreover, I am used to work on softwares containerized with Docker.
+Currently, I'm most engaging with backend ones, such as ExpressJS, however I've got some projects coded in ReactJS. Moreover, I am used to work on softwares containerized with Docker.
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
