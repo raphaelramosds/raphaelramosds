@@ -5,7 +5,7 @@ I am a JavaScript and PHP web developer.
 
 **Technologies**
 
-Currently, I'm most engaging with fullstack framework, as NextJS and CMS such that Wordpress.
+Currently, I'm most engaging with fullstack frameworks, as NextJS. Also, I've been envolved on developing CMS using Wordpress.
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
