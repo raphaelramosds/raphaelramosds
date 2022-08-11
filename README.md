@@ -3,6 +3,9 @@
 
 I am a JS and PHP web developer.
 
+- Wordpress developer at ASCOM (ECT/UFRN)
+- JS web develper volunteer Dataviewer
+
 **Technologies**
 
 Currently, I'm most engaging with fullstack frameworks, as NextJS. Also, I've been envolved on developing CMS using Wordpress.
