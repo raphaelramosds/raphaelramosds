@@ -1,7 +1,7 @@
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi
+### Hi
 
-I am a JS and PHP web developer.
+I am a
 
 - Wordpress developer at Escola de Ciências e Tecnologia (ECT/UFRN). Currently I've been maintaining the [ECT website](https://gitlab.ect.ufrn.br/STI/novo-site-ect/-/project_members)
 - JS web developer volunteer at the [Dataviewer](https://github.com/Natalnet/api-dataviewer/tree/Versao-Dev) system
