@@ -1,7 +1,7 @@
 
 ### Hi, I am a
 
-- Wordpress developer at Escola de Ciências e Tecnologia (ECT/UFRN). Currently I've been maintaining the [ECT website](https://www.ect.ufrn.br/)
+- PHP developer. Currently I've been maintaining the [ECT website](https://www.ect.ufrn.br/)
 - Science and Technology undergraduating student at UFRN
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
