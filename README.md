@@ -1,6 +1,5 @@
 
 ### Hi, I am a
 
-- Software developer
-- Web development technician 
-- Science and Technology Undergraduating student
+- PHP developer
+- Currently taking a major in Computer Engineering
