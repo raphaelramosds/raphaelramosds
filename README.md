@@ -1,5 +1,4 @@
 
-### Hi, I am a
+### Hi
 
-- PHP developer
-- Currently taking a major in Computer Engineering
+I am a web developer.
