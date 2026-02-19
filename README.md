@@ -1,4 +1,4 @@
 
-### 🐘🐍 Hi,
+### Hi,
 
-I am a web developer.
+I am a software developer.
